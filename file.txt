@@ -704,3 +704,4 @@ check pull in version 702
 check pull in version 703
 check pull in version 704
 check pull in version 705
+check pull in version 706
