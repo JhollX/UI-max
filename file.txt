@@ -677,3 +677,4 @@ check pull in version 675
 check pull in version 676
 check pull in version 677
 check pull in version 678
+check pull in version 679
